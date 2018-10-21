@@ -1,6 +1,6 @@
 token= NTAzMzIwMTQxMjk2MDQyMDMz.Dq0xxw.z7dpXJMhtvIkywmNlYbux-VHqAk
 owner= 195088897234042880 
 prefix= 2
-game= 2help |
+game= 2help | The Legend
 stayinchannel=true
 songinstatus=true
